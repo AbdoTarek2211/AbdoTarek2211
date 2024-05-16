@@ -26,7 +26,7 @@
 ## My Stats
 
 <div>
-  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=AbdoTarek2211&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" />
+  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=AbdoTarek2211&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=false" />
     <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=AbdoTarek2211&theme=radical&hide_border=true" />
 </div>
 
