@@ -27,5 +27,6 @@
 
 <div>
 <img width="49.5%" align="top" src="https://github-profile-trophy.vercel.app/?username=AbdoTarek2211&theme=radical&row=2&column=3&no-frame=true&no-bg=false&margin-w=5&margin-h=5" />
-<img width="49.5%" align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdoTarek2211&layout=compact&theme=radical&hide_border=true&langs_count=12&hide=jupyter%20notebook" />  
- </div>
+<img width="49.5%" align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdoTarek2211&layout=compact&theme=radical&hide_border=true&langs_count=12&hide=jupyter%20notebook" /> 
+<img src="https://github-readme-stats.vercel.app/api?username=AbdoTarek2211&show_icons=true&theme=radical" alt="GitHub Stats">
+</div>
