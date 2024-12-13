@@ -10,15 +10,15 @@
 <div align="center">
   
 <a href="mailto:abdotareq918@gmail.com" target="_blank">
-<img src=https://img.shields.io/badge/gmail-%23F45.svg?&style=for-the-badge&logo=gmail&logoColor=white alt=gmail style="margin-bottom: 3px;" />
+  <img src="https://img.shields.io/badge/gmail-%23F45.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" style="margin-bottom: 3px;margin-top: 3px" />
 </a>
 
 <a href="https://www.kaggle.com/abdelrahmantarekm" target="_blank">
-<img src="https://img.shields.io/badge/kaggle-%23004B6B.svg?&style=for-the-badge&logo=kaggle&logoColor=white" alt="kaggle" style="margin-bottom: 3px;" />
+  <img src="https://img.shields.io/badge/kaggle-%23004B6B.svg?&style=for-the-badge&logo=kaggle&logoColor=white" alt="kaggle" style="margin-bottom: 3px;margin-top: 3px" />
 </a>
 
 <a href="https://linkedin.com/in/abdelrahman-tarek-m" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 3px;" />
+  <img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" style="margin-bottom: 3px;margin-top: 3px" />
 </a>
 
 </div>
